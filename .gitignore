@@ -1,0 +1,7 @@
+/__MACOSX/
+/node_modules/
+/logs/
+.env
+test.ts
+pk.json
+result.json
